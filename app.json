@@ -1,6 +1,7 @@
 {
   "expo": {
-    "name": "LRU HERB",
+    "sdkVersion": "50.0.0",
+    "name": "LRU-HERB",
     "slug": "LRUHERB",
     "version": "1.0.0",
     "orientation": "portrait",
@@ -22,7 +23,10 @@
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
       },
-      "package": "com.sunksun.LRUHERB"
+      "package": "com.scilru.lruherb",
+      "versionCode": 2,
+      "compileSdkVersion": 34,
+      "targetSdkVersion": 34
     },
     "web": {
       "favicon": "./assets/favicon.png"
