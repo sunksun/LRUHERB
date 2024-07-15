@@ -6,6 +6,7 @@ import Splash from './screen/Splash';
 import Herb from './screen/Herb';
 import Item1 from './screen/Item1';
 
+
 const Stack = createNativeStackNavigator();
 
 const App = () => {
